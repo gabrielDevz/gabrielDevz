@@ -1,0 +1,24 @@
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+
+<h2> Hey there! I'm Aditya.</h2>
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 👨‍💻 &nbsp; Entry Level Web Developer.
+- 🎓 &nbsp; Self-taugh developer.
+- 💼 &nbsp; Learning to build a startup.
+- 🌱 &nbsp; Learning about JavaScript.
+- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  
+- ⚙️ &nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+
+
