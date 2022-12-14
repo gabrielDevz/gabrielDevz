@@ -4,9 +4,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 👨‍💻 &nbsp; Entry Level Web Developer.
+- 👨‍💻 &nbsp; Getting better on coding.
 - 🎓 &nbsp; Self-taugh developer.
-- 💼 &nbsp; Learning to build a startup.
 - 🌱 &nbsp; Learning about JavaScript.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
